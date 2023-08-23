@@ -20,8 +20,8 @@ public class Main {
     }
 
     public static int addTwoNumbers(int value1, int value2) {
-        int result = value1 + value2;
-        return result;
+        return value1 + value2;
+
     }
 
     public static boolean isEven(int numberToCheck) {
@@ -29,13 +29,12 @@ public class Main {
     }
 
     public static int multiply(int value1, int value2) {
-        int result = value1 * value2;
-        return result;
+        return value1 * value2;
     }
 
     public static String toUpperCase(String text) {
-        String result = text.toUpperCase();
-        return result;
+        return text.toUpperCase();
+
     }
 
     public static boolean isPositive(int number) {
