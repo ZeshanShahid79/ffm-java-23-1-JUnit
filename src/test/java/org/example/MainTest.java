@@ -35,6 +35,7 @@ class MainTest {
         // GIVEN
         int a = 5;
         int b = 7;
+
         // WHEN
         int actual = Main.addTwoNumbers(a, b);
         // THEN
