@@ -11,7 +11,7 @@ class MainTest {
     @Test
     void returnWelcome_whenAgeIs18_OrAbove() {
         //GIVEN
-        int age = 19;
+        int age = 16;
         // WHEN
         String actual = Main.isOfFullAge(age);
         //THEN
